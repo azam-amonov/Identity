@@ -1,4 +1,4 @@
-namespace N64.Identity.Domain.Entites;
+namespace N64.Identity.Domain.Entities;
 
 public class User
 {
